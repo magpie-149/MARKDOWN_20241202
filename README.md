@@ -19,7 +19,7 @@ MARKDOWN_20241202
 
 ### 8. 이미지
 `이미지는 ![이미지 텍스트](이미지URL)`  
-![Casting](https://github.com/hykim-king/MARKDOWN_20241202/blob/main/casting.png)  
+![Casting](https://github.com/magpie-149/MARKDOWN_20241202/blob/main/20240417501977.jpg)  
 
 ### 7. 강조(Emphasis)
 - Bold : **텍스트**  또는 __text__
