@@ -57,4 +57,5 @@ public class Hello {
 - 볼드+이텔릭 : ***텍스트***
 
 ### 8. 이미지
-이미지는 
+이미지는 !{이미지 텍스트}(이미지URL)
+![ㅇ](https://github.com/magpie-149/MARKDOWN_20241202/blob/main/20240417501977.jpg)
